@@ -4,4 +4,4 @@ In their 1985 paper, Harville and Fenech presented a method for constructing an 
 
 In this project, I build a linear mixed effects model with birth weight as the response and the above variables as predictors. Sire is included as a random effect in the model due to the fact that the sires used in the study can be thought of as a sample from a larger population. Maximum likelihood and restricted maximum likelihood techniques are used to fit the model, and asymptotic covariance matrices are calculated.
 
-Please see the PDF document for a written report of the analysis.
+Please see the PDF document for a written report of the analysis. R code used for the project are included in-line.
